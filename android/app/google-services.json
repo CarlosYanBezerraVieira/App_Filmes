@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555177492915",
+    "project_id": "dart-week-4-app-filmes-34c24",
+    "storage_bucket": "dart-week-4-app-filmes-34c24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555177492915:android:6620a1dc2b2a2550120bc6",
+        "android_client_info": {
+          "package_name": "com.example.app_filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555177492915-rdul3qsf874152o97vfgi68t639uimt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_filmes",
+            "certificate_hash": "7b306a0a441a930b81241b4d4e68128874d7ec4f"
+          }
+        },
+        {
+          "client_id": "555177492915-q6dfddpab216tlgqi24nu8ocrupslvqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUB78Bo0dX2-m2iDKjz6ZUNipzmOTdFqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555177492915-q6dfddpab216tlgqi24nu8ocrupslvqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
